@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🚀 Software & Data Engineer
-🎓 Master’s in Computer Science @ UIUC
-🛠️ Specializing in building scalable, real-time data pipelines and developing analytics-driven applications. I thrive at the intersection of software, data, and analytics engineering; building cloud-native solutions that transform raw data into actionable insights and enable reliable, data-informed decision-making!
-⚙️ Passionate about distributed systems, big data, and automating everything!
-📊 Love diving deep into analytics and turning data into actionable insights.
-💼 I am actively looking for full-time software and data engineering opportunities (starting in January 2025). If you're hiring please reach out to me: bsundar3@illinois.edu
+- 🚀 Software & Data Engineer
+- 🎓 Master’s in Computer Science @ UIUC
+- 🛠️ Specializing in building scalable, real-time data pipelines and developing analytics-driven applications. I thrive at the intersection of software, data, and analytics engineering; building cloud-native solutions that transform raw data into actionable insights and enable reliable, data-informed decision-making!
+- ⚙️ Passionate about distributed systems, big data, and automating everything!
+- 📊 Love diving deep into analytics and turning data into actionable insights.
+- 💼 I am actively looking for full-time software and data engineering opportunities (starting in January 2025). If you're hiring please reach out to me: bsundar3@illinois.edu
