@@ -1,4 +1,4 @@
-## Hi! I'm Bhavana (Online I go by Bee 🐝)
+## Hi! I'm Bhavana 🐝
 
 <!--
 **bhavanaeh/bhavanaeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
